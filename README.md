@@ -18,7 +18,6 @@ This is a Python-based project for automating attendance systems using face reco
   - TensorFlow/Keras
   - Pandas
   - Dlib
-- (Optional) CUDA and cuDNN for GPU acceleration
 
 ## Setup
 
@@ -51,6 +50,7 @@ How it Works:
 Attendance CSV:
 
 The attendance data will be saved in a CSV file (Attendance.csv) located in a user-specified directory (by default, D:\\Attendance_Records\\).
+
 The CSV will store the name, time, and status ("Present"/"Absent") for each individual.
 
 ## Advanced Options
