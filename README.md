@@ -23,7 +23,7 @@ This is a Python-based project for automating attendance systems using face reco
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/Sujal-Hawkeye/Face-Recognition-Model)>
    ```
 2. Install dependencies:
    ```bash
